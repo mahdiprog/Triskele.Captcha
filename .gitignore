@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Captcha/bin/Debug/netstandard2.0
+/Captcha/obj
+/Captcha.Web/bin/Debug
+/Captcha.Web/obj
+/NumberToWordsLib/bin/Debug/netstandard2.0
+/NumberToWordsLib/obj
+/Triskele.Captcha/.vs/Triskele.Captcha/v15
+/Triskele.Captcha
+/Triskele.Captcha.RedisRepository/bin/Debug/netstandard2.0
+/Triskele.Captcha.RedisRepository/obj
